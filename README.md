@@ -16,5 +16,7 @@ pip install numpy
 pip install matplotlib
 ```
 ## Evaluation
-
+<p align="left">
+  <img src="/images/graph.png" alt="architecture" width="600" height="600">
+</p>
 
